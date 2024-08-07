@@ -3,7 +3,9 @@
 }
 
 body{
+    display: flex;
     margin: 0;
+    justify-content: center;
     background: linear-gradient(to right, #00AAFF,#00FF6C)
 }
 
