@@ -13,7 +13,6 @@ export const ACTIONS = {
 };
 
 function evaluate(state) {
-  let calculation = "";
   switch (state.operation) {
     case "+":
       return {
